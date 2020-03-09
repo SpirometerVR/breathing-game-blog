@@ -27,7 +27,7 @@ disqusShortname = "bilberry-hugo-theme"
   js_modules = []
 
   # Description and meta data for the search engines
-  author = "Spirometer VR"
+  author = "CHLA Team"
   description = "Blog for CHLA team's Spirometer VR game development."
   keywords = "spirometer,virtual,reality,vr,blog,game,development,oculus,chla,chidren,hospital,los,angeles"
 
