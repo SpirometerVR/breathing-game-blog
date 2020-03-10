@@ -10,7 +10,7 @@ resizeImages: false
 ---
 It begins!
  
-On a sad note, this past week one team member had to leave the course due to a class schedule change. On a happier note, our team space was setup in the USC Creative Media and Behavioural Health lab. On top of this received two Oculus Go and 3 custom made spirometers, designed by Dr. Vangelis.
+On a sad note, this past week one team member had to leave the course due to a class schedule change. On a happier note, our team space was set up in the USC Creative Media and Behavioural Health lab. On top of this received two Oculus Go and 3 custom made spirometers, designed by Dr. Vangelis.
  
 <!--more-->
  
@@ -21,8 +21,9 @@ And last, but not least, we finalize our idea being a game of mini games. This w
 name    | description | inhale | hold | exhale
 --------|------|-------|-------|---------
 Save the Village | Put out fires! | collect water | hold the water | shoot water
-Racing   | Yeah, a racing game! | braking | coasting | accelarating 
+Racing   | Yeah, a racing game! | braking | coasting | accelerating 
 Pebbles | Straw + pebbles = fun! | collect pebbles | hold pebbles | place pebbles
+
 
 -- The CHLA Team
 

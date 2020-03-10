@@ -10,26 +10,26 @@ resizeImages: false
 ---
 This week we lost our Production Manager. That being said, we have elected a new PM and are still full steam ahead! 
 
-For this posting, we are stepping a back a bit to review development environment setup for the breathing games. Without further ado...
+For this posting, we are stepping back a bit to review the development environment setup for the breathing games. Without further ado...
 
 <!--more-->
 
 # Arduino Setup
 
-1. Connect the M5StickC to your computer via the micro USB cable
-2. Install and run the Arduino IDE from https://www.arduino.cc/en/main/software
-3. In the Arduino IDE install the appropriate board manager and libraries ESP32 (Board Manager)
-4. Go to File -> Preferences -> Settings
-5. Copy this link for the ESP32 Board Manager URL to Additional Boards Manager URLs input field and click OK: https://dl.espressif.com/dl/package_esp32_index.json
-6. Go to Tools -> Board: -> Boards Manager…
-7. Search for ESP32 and install it 
+* Connect the M5StickC to your computer via the micro USB cable
+* Install and run the Arduino IDE from https://www.arduino.cc/en/main/software
+* In the Arduino IDE install the appropriate board manager and libraries ESP32 (Board Manager)
+* Go to File -> Preferences -> Settings
+* Copy this link for the ESP32 Board Manager URL to Additional Boards Manager URLs input field and click OK: https://dl.espressif.com/dl/package_esp32_index.json
+* Go to Tools -> Board: -> Boards Manager…
+* Search for ESP32 and install it 
 M5StickC (Library)
-8. Go to Sketch -> Include Library -> Manage Libraries and search for M5StickC and install it
+* Go to Sketch -> Include Library -> Manage Libraries and search for M5StickC and install it
 OSC by Adrian Freed, Yotam Mann et.al (Library)
-9. Now Search for OSC and install it.
-10. Go to Tools -> Board: and select M5Stick-C
-11. Go to Tools -> Upload Speed and select 115200
-12. Go to Tools -> Port and find and select the USB port your M5StickC is connected to, e.g. COM3.
+* Now Search for OSC and install it.
+* Go to Tools -> Board: and select M5Stick-C
+* Go to Tools -> Upload Speed and select 115200
+* Go to Tools -> Port and find and select the USB port your M5StickC is connected to, e.g. COM3.
 
 {{< figure src="img/wifi_network.jpeg" >}}
 ## WiFi network
@@ -62,6 +62,7 @@ If you want to develop at home, we found that you can use a local 2G wifi networ
 Just follow this great medium article:
 
 [__>> How to get started with Oculus Quest and Unity on macOS__](https://medium.com/@sofaracing/how-to-develop-for-oculus-quest-on-macos-with-unity-5aa487b80d13).
+
 
 
 
