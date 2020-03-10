@@ -12,26 +12,28 @@ This week we lost our Production Manager. That being said, we have elected a new
 
 For this posting, we are stepping a back a bit to review development environment setup for the breathing games. Without further ado...
 
+<!--more-->
+
 # Arduino Setup
 
-* Connect the M5StickC to your computer via the micro USB cable
-* Install and run the Arduino IDE from https://www.arduino.cc/en/main/software
-* In the Arduino IDE install the appropriate board manager and libraries ESP32 (Board Manager)
-* Go to File -> Preferences -> Settings
-* Copy this link for the ESP32 Board Manager URL to Additional Boards Manager URLs input field and click OK: https://dl.espressif.com/dl/package_esp32_index.json
-* Go to Tools -> Board: -> Boards Manager…
-* Search for ESP32 and install it 
+1. Connect the M5StickC to your computer via the micro USB cable
+2. Install and run the Arduino IDE from https://www.arduino.cc/en/main/software
+3. In the Arduino IDE install the appropriate board manager and libraries ESP32 (Board Manager)
+4. Go to File -> Preferences -> Settings
+5. Copy this link for the ESP32 Board Manager URL to Additional Boards Manager URLs input field and click OK: https://dl.espressif.com/dl/package_esp32_index.json
+6. Go to Tools -> Board: -> Boards Manager…
+7. Search for ESP32 and install it 
 M5StickC (Library)
-* Go to Sketch -> Include Library -> Manage Libraries and search for M5StickC and install it
+8. Go to Sketch -> Include Library -> Manage Libraries and search for M5StickC and install it
 OSC by Adrian Freed, Yotam Mann et.al (Library)
-* Now Search for OSC and install it.
-* Go to Tools -> Board: and select M5Stick-C
-* Go to Tools -> Upload Speed and select 115200
-* Go to Tools -> Port and find and select the USB port your M5StickC is connected to, e.g. COM3.
+9. Now Search for OSC and install it.
+10. Go to Tools -> Board: and select M5Stick-C
+11. Go to Tools -> Upload Speed and select 115200
+12. Go to Tools -> Port and find and select the USB port your M5StickC is connected to, e.g. COM3.
 
+{{< figure src="img/wifi_network.jpeg" >}}
 ## WiFi network
-
-Just power on the wireless router via a micro USB cable and connect to SpironmeterNet
+If you want to develop at home, we found that you can use a local 2G wifi network. Otherwise use the usb wifi router provided by the professor. Just power on the wireless router via a micro USB cable and connect to the network. At the writing of this post these are the network deets:
 
 * **Network name:** SpirometerNet
 * **Pass:** CHLA2020
@@ -41,8 +43,7 @@ Just power on the wireless router via a micro USB cable and connect to Spironmet
 * **Pass:** admin
 > Take note of your network IP address (e.g., 192.168.0.101)
 
-
-{{< figure src="img/digital_spirometer.jpeg" >}}
+{{< figure src="img/digital_spirometer.jpeg" >}}{{< figure src="img/month_piece.jpeg" >}}
 ## Digital Spirometer
 * Download the digital spirometer files
 * In the Arduino IDE open the M5_Spirometer_2020.ino file
