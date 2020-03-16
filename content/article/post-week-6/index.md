@@ -14,6 +14,8 @@ The process of building out each mini game continues. This week we took the time
 
 We are finding the digital spirometer is not perfect. We are seeing that when it comes to getting the device working with Unity it has only worked thus far on macOS and not on Windows for our team. Also using the Arduino IDE to upload the `M5_Spirometer_2020.ino` script to the M5Stick-C works for some of our laptops, and not for others. During upload we are seeing the screen of the M5Stick-C keep flashing off and on for several times before the IDE throws an error.
 
+{{< figure src="img/wifi_network.jpeg" >}}
+
 **Next up...**
 
 Next we will attempt to get the spirometer also intergrated into the Pebble + Fruit mini game, and attempt to get the prior teams Save the Village game fully working again. Currently we are unable to use the Oculus controller to begin the game and we still need to test it with the digital spirometer input.

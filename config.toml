@@ -4,6 +4,7 @@ baseURL = "https://spirometervr.github.io/"
 theme = "bilberry-hugo-theme"
 
 enableRobotsTXT = true
+enableEmoji = true
 
 # Change to one of your content languages definded at the end.
 DefaultContentLanguage = "en"
