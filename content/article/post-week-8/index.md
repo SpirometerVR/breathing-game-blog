@@ -27,6 +27,5 @@ The main tasks are to take the good parts of the feedback and polished the curre
 
 
 Keep healthy, happy and a good distance from your loved ones!
-.
 
 Game On :v: -- The CHLA Team
