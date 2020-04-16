@@ -1,4 +1,4 @@
-title = "CHLA team blog"
+title = "Breathing Games Dev Diary"
 # Add an trailing slash to ensure that all fonts render correctly.
 baseURL = "https://spirometervr.github.io/"
 theme = "bilberry-hugo-theme"

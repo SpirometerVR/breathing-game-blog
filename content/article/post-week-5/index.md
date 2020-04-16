@@ -12,8 +12,8 @@ This week the process of prototyping our new mini games is in full swing. After 
 
 name    | description | inhale | exhale
 --------|------|-------|---------
-Sailboat game  | You're the wind | slow down | accelerate 
-Pebbles & Fruit | Knock fruit down from the trees | collect a pebble | blow pebble at fruit
+Treasure Hunter | You're the wind | slow down | accelerate 
+Fruit Fall | Knock fruit down from the trees | collect a pebble | blow pebble at fruit
 Save the Village | Be the enemy or the savior | collect air/water | spray fire/water
 
 **Building the scene**
