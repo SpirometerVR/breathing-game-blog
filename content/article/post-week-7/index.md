@@ -13,7 +13,7 @@ This week, in response to the novel coronavirus pandemic rapidly spreading acros
 
 The change in course instruction format to online, plus the recent closure of the campus buildings to help mitigate the spread of the virus, will affect some teams more than others. Our team is optimistic and fully capable to continue our development remotely.
 
-
+<!-- more -->
 The CHLA team hopes you enjoy our midterm video and wish good health, happiness and love to all during these trying times in the world.
 
 {{< youtube zlT2i3V2gAw >}}

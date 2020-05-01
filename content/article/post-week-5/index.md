@@ -16,6 +16,7 @@ Treasure Hunter | You're the wind | slow down | accelerate
 Fruit Fall | Knock fruit down from the trees | collect a pebble | blow pebble at fruit
 Save the Village | Be the enemy or the savior | collect air/water | spray fire/water
 
+<!-- more -->
 **Building the scene**
 
 We found amazing low poly environments and items in the unity asset store to help us rapid prototype the new game scenes. Our team primarily works on building and testing the initial game scenes with keyboard input for now.
